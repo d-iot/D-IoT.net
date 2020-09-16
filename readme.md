@@ -48,17 +48,27 @@
 <h4> 3.NEXTION EDITOR DOWNLOAD </h4>
  
 1. Go to Nextion website and download the Nextion Editor 1.61.2 by clicking on “EXE Download”. 
+
+
  
  ![7](https://user-images.githubusercontent.com/61791991/93344439-6127a080-f83a-11ea-9285-939ed2061c67.png)
+ 
+ 
 
 2. Click on “Next” button to start installation. 
+
+
 ![8](https://user-images.githubusercontent.com/61791991/93344525-743a7080-f83a-11ea-8320-1fc5e81d146c.png)
 
  
 3. Click the “Next” button.
+
+
  ![9](https://user-images.githubusercontent.com/61791991/93344557-7ac8e800-f83a-11ea-9edf-0133f372d6e5.png)
 
 4. Click the “Install” button. 
+
+
  ![10](https://user-images.githubusercontent.com/61791991/93344638-92a06c00-f83a-11ea-8762-f722c505ad53.png)
 
  
