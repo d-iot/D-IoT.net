@@ -1,0 +1,238 @@
+REMINDERS = OFF
+
+'
+' FONT information for  System  - Font Size 13 (Point Size 9,75) Bold 
+'---------------------------------------------------------------------------------------------------'
+'
+'
+' Pointers to the actual font table
+'
+Syste_B__9o75:-
+
+Cdata     word 13 ' Font is 13 High
+
+Cdata     Syste_B__9o75_0,Syste_B__9o75_1,Syste_B__9o75_2,Syste_B__9o75_3,Syste_B__9o75_4,_
+          Syste_B__9o75_5,Syste_B__9o75_6,Syste_B__9o75_7,Syste_B__9o75_8,Syste_B__9o75_9,_
+          Syste_B__9o75_10,Syste_B__9o75_11,Syste_B__9o75_12,Syste_B__9o75_13,Syste_B__9o75_14,_
+          Syste_B__9o75_15,Syste_B__9o75_16,Syste_B__9o75_17,Syste_B__9o75_18,Syste_B__9o75_19,_
+          Syste_B__9o75_20,Syste_B__9o75_21,Syste_B__9o75_22,Syste_B__9o75_23,Syste_B__9o75_24,_
+          Syste_B__9o75_25,Syste_B__9o75_26,Syste_B__9o75_27,Syste_B__9o75_28,Syste_B__9o75_29,_
+          Syste_B__9o75_30,Syste_B__9o75_31,Syste_B__9o75_32,Syste_B__9o75_33,Syste_B__9o75_34,_
+          Syste_B__9o75_35,Syste_B__9o75_36,Syste_B__9o75_37,Syste_B__9o75_38,Syste_B__9o75_39,_
+          Syste_B__9o75_40,Syste_B__9o75_41,Syste_B__9o75_42,Syste_B__9o75_43,Syste_B__9o75_44,_
+          Syste_B__9o75_45,Syste_B__9o75_46,Syste_B__9o75_47,Syste_B__9o75_48,Syste_B__9o75_49,_
+          Syste_B__9o75_50,Syste_B__9o75_51,Syste_B__9o75_52,Syste_B__9o75_53,Syste_B__9o75_54,_
+          Syste_B__9o75_55,Syste_B__9o75_56,Syste_B__9o75_57,Syste_B__9o75_58,Syste_B__9o75_59,_
+          Syste_B__9o75_60,Syste_B__9o75_61,Syste_B__9o75_62,Syste_B__9o75_63,Syste_B__9o75_64,_
+          Syste_B__9o75_65,Syste_B__9o75_66,Syste_B__9o75_67,Syste_B__9o75_68,Syste_B__9o75_69,_
+          Syste_B__9o75_70,Syste_B__9o75_71,Syste_B__9o75_72,Syste_B__9o75_73,Syste_B__9o75_74,_
+          Syste_B__9o75_75,Syste_B__9o75_76,Syste_B__9o75_77,Syste_B__9o75_78,Syste_B__9o75_79,_
+          Syste_B__9o75_80,Syste_B__9o75_81,Syste_B__9o75_82,Syste_B__9o75_83,Syste_B__9o75_84,_
+          Syste_B__9o75_85,Syste_B__9o75_86,Syste_B__9o75_87,Syste_B__9o75_88,Syste_B__9o75_89,_
+          Syste_B__9o75_90,Syste_B__9o75_91,Syste_B__9o75_92,Syste_B__9o75_93,Syste_B__9o75_94,_
+          Syste_B__9o75_95
+
+
+
+' Font data
+
+Syste_B__9o75_0:-
+CDATA 57,255,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,_
+          0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,_
+          0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,_
+          0,0,0,0,0,0,0 ' Code for char    
+Syste_B__9o75_1:-
+CDATA 3,254,6,254,6,0,0 ' Code for char !  
+Syste_B__9o75_2:-
+CDATA 7,30,0,30,0,0,0,0,0,30,0,30,0,0,0 ' Code for char "  
+Syste_B__9o75_3:-
+CDATA 9,0,1,200,7,254,7,62,1,200,7,254,7,62,1,8,0,0,0 ' Code for char #  
+Syste_B__9o75_4:-
+CDATA 7,56,2,124,6,70,12,70,12,220,7,152,3,0,0 ' Code for char $  
+Syste_B__9o75_5:-
+CDATA 12,28,4,62,6,34,3,190,1,220,0,96,0,176,3,216,7,76,4,198,7,130,3,0,0 ' Code for char %  
+Syste_B__9o75_6:-
+CDATA 8,128,3,220,7,126,4,226,4,190,7,28,7,128,5,0,0 ' Code for char &  
+Syste_B__9o75_7:-
+CDATA 3,30,0,30,0,0,0 ' Code for char '  
+Syste_B__9o75_8:-
+CDATA 4,252,31,254,63,2,32,0,0 ' Code for char (  
+Syste_B__9o75_9:-
+CDATA 4,2,32,254,63,252,31,0,0 ' Code for char )  
+Syste_B__9o75_10:-
+CDATA 7,4,0,52,0,30,0,30,0,52,0,4,0,0,0 ' Code for char *  
+Syste_B__9o75_11:-
+CDATA 7,64,0,64,0,248,3,248,3,64,0,64,0,0,0 ' Code for char +  
+Syste_B__9o75_12:-
+CDATA 4,0,8,0,14,0,6,0,0 ' Code for char ,  
+Syste_B__9o75_13:-
+CDATA 5,64,0,64,0,64,0,64,0,0,0 ' Code for char -  
+Syste_B__9o75_14:-
+CDATA 3,0,6,0,6,0,0 ' Code for char .  
+Syste_B__9o75_15:-
+CDATA 5,0,30,224,31,254,1,30,0,0,0 ' Code for char /  
+Syste_B__9o75_16:-
+CDATA 7,252,3,254,7,2,4,2,4,254,7,252,3,0,0 ' Code for char 0  
+Syste_B__9o75_17:-
+CDATA 5,4,0,4,0,254,7,254,7,0,0 ' Code for char 1  
+Syste_B__9o75_18:-
+CDATA 7,12,7,142,7,194,4,98,4,62,4,28,4,0,0 ' Code for char 2  
+Syste_B__9o75_19:-
+CDATA 7,4,2,6,6,34,4,34,4,254,7,220,3,0,0 ' Code for char 3  
+Syste_B__9o75_20:-
+CDATA 7,128,1,224,1,120,1,28,1,254,7,254,7,0,0 ' Code for char 4  
+Syste_B__9o75_21:-
+CDATA 7,126,2,126,6,34,4,34,4,226,7,194,3,0,0 ' Code for char 5  
+Syste_B__9o75_22:-
+CDATA 7,252,3,254,7,34,4,34,4,230,7,196,3,0,0 ' Code for char 6  
+Syste_B__9o75_23:-
+CDATA 7,2,0,2,7,226,7,250,0,30,0,6,0,0,0 ' Code for char 7  
+Syste_B__9o75_24:-
+CDATA 7,220,3,254,7,34,4,34,4,254,7,220,3,0,0 ' Code for char 8  
+Syste_B__9o75_25:-
+CDATA 7,60,2,126,6,66,4,66,4,254,7,252,3,0,0 ' Code for char 9  
+Syste_B__9o75_26:-
+CDATA 3,24,6,24,6,0,0 ' Code for char :  
+Syste_B__9o75_27:-
+CDATA 4,0,8,24,14,24,6,0,0 ' Code for char ;  
+Syste_B__9o75_28:-
+CDATA 7,64,0,224,0,176,1,24,3,12,6,4,4,0,0 ' Code for char <  
+Syste_B__9o75_29:-
+CDATA 7,144,0,144,0,144,0,144,0,144,0,144,0,0,0 ' Code for char =  
+Syste_B__9o75_30:-
+CDATA 7,4,4,12,6,24,3,176,1,224,0,64,0,0,0 ' Code for char >  
+Syste_B__9o75_31:-
+CDATA 7,12,0,14,0,194,6,226,6,62,0,28,0,0,0 ' Code for char ?  
+Syste_B__9o75_32:-
+CDATA 13,240,1,252,7,14,14,194,9,243,27,57,18,137,17,251,19,114,26,14,10,252,11,240,_
+          1,0,0 ' Code for char @  
+Syste_B__9o75_33:-
+CDATA 9,0,6,192,7,248,1,30,1,30,1,248,1,192,7,0,6,0,0 ' Code for char A  
+Syste_B__9o75_34:-
+CDATA 9,254,7,254,7,34,4,34,4,34,4,34,4,254,7,220,3,0,0 ' Code for char B  
+Syste_B__9o75_35:-
+CDATA 8,248,1,252,3,6,6,2,4,2,4,6,6,12,3,0,0 ' Code for char C  
+Syste_B__9o75_36:-
+CDATA 9,254,7,254,7,2,4,2,4,2,4,6,6,252,3,248,1,0,0 ' Code for char D  
+Syste_B__9o75_37:-
+CDATA 8,254,7,254,7,34,4,34,4,34,4,34,4,2,4,0,0 ' Code for char E  
+Syste_B__9o75_38:-
+CDATA 8,254,7,254,7,34,0,34,0,34,0,34,0,2,0,0,0 ' Code for char F  
+Syste_B__9o75_39:-
+CDATA 9,248,1,252,3,6,6,2,4,66,4,66,4,198,3,204,7,0,0 ' Code for char G  
+Syste_B__9o75_40:-
+CDATA 9,254,7,254,7,32,0,32,0,32,0,32,0,254,7,254,7,0,0 ' Code for char H  
+Syste_B__9o75_41:-
+CDATA 3,254,7,254,7,0,0 ' Code for char I  
+Syste_B__9o75_42:-
+CDATA 7,0,3,0,7,0,4,0,4,254,7,254,3,0,0 ' Code for char J  
+Syste_B__9o75_43:-
+CDATA 9,254,7,254,7,112,0,216,0,140,1,6,3,2,6,0,4,0,0 ' Code for char K  
+Syste_B__9o75_44:-
+CDATA 8,254,7,254,7,0,4,0,4,0,4,0,4,0,4,0,0 ' Code for char L  
+Syste_B__9o75_45:-
+CDATA 11,254,7,254,7,120,0,224,1,128,7,128,7,224,1,120,0,254,7,254,7,0,0 ' Code for char M  
+Syste_B__9o75_46:-
+CDATA 9,254,7,254,7,28,0,120,0,224,1,128,3,254,7,254,7,0,0 ' Code for char N  
+Syste_B__9o75_47:-
+CDATA 9,248,1,252,3,6,6,2,4,2,4,6,6,252,3,248,1,0,0 ' Code for char O  
+Syste_B__9o75_48:-
+CDATA 9,254,7,254,7,66,0,66,0,66,0,66,0,126,0,60,0,0,0 ' Code for char P  
+Syste_B__9o75_49:-
+CDATA 9,248,1,252,3,6,6,2,4,2,5,6,7,252,7,248,5,0,0 ' Code for char Q  
+Syste_B__9o75_50:-
+CDATA 10,254,7,254,7,66,0,66,0,66,0,66,0,254,3,188,7,0,4,0,0 ' Code for char R  
+Syste_B__9o75_51:-
+CDATA 8,28,3,62,7,34,4,98,4,66,4,206,7,140,3,0,0 ' Code for char S  
+Syste_B__9o75_52:-
+CDATA 9,2,0,2,0,2,0,254,7,254,7,2,0,2,0,2,0,0,0 ' Code for char T  
+Syste_B__9o75_53:-
+CDATA 9,254,1,254,3,0,6,0,4,0,4,0,6,254,3,254,1,0,0 ' Code for char U  
+Syste_B__9o75_54:-
+CDATA 9,6,0,62,0,248,1,128,7,128,7,248,1,62,0,6,0,0,0 ' Code for char V  
+Syste_B__9o75_55:-
+CDATA 15,14,0,62,0,240,0,192,7,128,7,240,0,62,0,62,0,240,0,128,7,192,7,240,0,62,0,_
+          14,0,0,0 ' Code for char W  
+Syste_B__9o75_56:-
+CDATA 10,6,6,14,7,152,1,240,0,96,0,240,0,152,1,14,7,6,6,0,0 ' Code for char X  
+Syste_B__9o75_57:-
+CDATA 11,6,0,14,0,24,0,48,0,224,7,224,7,48,0,24,0,14,0,6,0,0,0 ' Code for char Y  
+Syste_B__9o75_58:-
+CDATA 10,2,6,2,7,130,5,194,4,98,4,50,4,26,4,14,4,6,4,0,0 ' Code for char Z  
+Syste_B__9o75_59:-
+CDATA 4,254,63,254,63,2,32,0,0 ' Code for char [  
+Syste_B__9o75_60:-
+CDATA 5,30,0,254,1,224,31,0,30,0,0 ' Code for char \  
+Syste_B__9o75_61:-
+CDATA 4,2,32,254,63,254,63,0,0 ' Code for char ]  
+Syste_B__9o75_62:-
+CDATA 6,8,0,12,0,6,0,12,0,8,0,0,0 ' Code for char ^  
+Syste_B__9o75_63:-
+CDATA 9,0,32,0,32,0,32,0,32,0,32,0,32,0,32,0,32,0,0 ' Code for char _  
+Syste_B__9o75_64:-
+CDATA 5,1,0,3,0,7,0,4,0,0,0 ' Code for char `  
+Syste_B__9o75_65:-
+CDATA 7,32,3,176,7,208,4,80,4,240,7,224,7,0,0 ' Code for char a  
+Syste_B__9o75_66:-
+CDATA 7,254,7,254,7,16,4,16,4,240,7,224,3,0,0 ' Code for char b  
+Syste_B__9o75_67:-
+CDATA 7,224,3,240,7,16,4,16,4,48,6,32,2,0,0 ' Code for char c  
+Syste_B__9o75_68:-
+CDATA 7,224,3,240,7,16,4,16,4,254,7,254,7,0,0 ' Code for char d  
+Syste_B__9o75_69:-
+CDATA 7,224,3,240,7,80,4,80,4,112,6,96,2,0,0 ' Code for char e  
+Syste_B__9o75_70:-
+CDATA 5,16,0,252,7,254,7,18,0,0,0 ' Code for char f  
+Syste_B__9o75_71:-
+CDATA 7,224,19,240,55,16,36,16,36,240,63,240,31,0,0 ' Code for char g  
+Syste_B__9o75_72:-
+CDATA 7,254,7,254,7,16,0,16,0,240,7,224,7,0,0 ' Code for char h  
+Syste_B__9o75_73:-
+CDATA 3,246,7,246,7,0,0 ' Code for char i  
+Syste_B__9o75_74:-
+CDATA 4,0,32,246,63,246,31,0,0 ' Code for char j  
+Syste_B__9o75_75:-
+CDATA 7,254,7,254,7,192,1,96,3,48,6,16,4,0,0 ' Code for char k  
+Syste_B__9o75_76:-
+CDATA 3,254,7,254,7,0,0 ' Code for char l  
+Syste_B__9o75_77:-
+CDATA 11,240,7,240,7,16,0,16,0,240,7,240,7,16,0,16,0,240,7,224,7,0,0 ' Code for char m  
+Syste_B__9o75_78:-
+CDATA 7,240,7,240,7,16,0,16,0,240,7,224,7,0,0 ' Code for char n  
+Syste_B__9o75_79:-
+CDATA 7,224,3,240,7,16,4,16,4,240,7,224,3,0,0 ' Code for char o  
+Syste_B__9o75_80:-
+CDATA 7,240,63,240,63,16,4,16,4,240,7,224,3,0,0 ' Code for char p  
+Syste_B__9o75_81:-
+CDATA 7,224,3,240,7,16,4,16,4,240,63,240,63,0,0 ' Code for char q  
+Syste_B__9o75_82:-
+CDATA 5,240,7,240,7,48,0,16,0,0,0 ' Code for char r  
+Syste_B__9o75_83:-
+CDATA 7,96,2,240,6,144,4,144,4,176,7,32,3,0,0 ' Code for char s  
+Syste_B__9o75_84:-
+CDATA 5,16,0,252,3,252,7,16,4,0,0 ' Code for char t  
+Syste_B__9o75_85:-
+CDATA 7,240,3,240,7,0,4,0,4,240,7,240,7,0,0 ' Code for char u  
+Syste_B__9o75_86:-
+CDATA 9,48,0,240,0,192,1,0,7,0,7,192,1,240,0,48,0,0,0 ' Code for char v  
+Syste_B__9o75_87:-
+CDATA 11,48,0,240,1,192,7,0,7,224,1,224,1,0,7,192,7,240,1,48,0,0,0 ' Code for char w  
+Syste_B__9o75_88:-
+CDATA 9,16,4,48,6,96,3,192,1,192,1,96,3,48,6,16,4,0,0 ' Code for char x  
+Syste_B__9o75_89:-
+CDATA 9,48,0,240,32,192,51,0,31,0,15,192,3,240,0,48,0,0,0 ' Code for char y  
+Syste_B__9o75_90:-
+CDATA 7,16,6,16,7,144,5,208,4,112,4,48,4,0,0 ' Code for char z  
+Syste_B__9o75_91:-
+CDATA 5,128,0,252,31,126,63,2,32,0,0 ' Code for char {  
+Syste_B__9o75_92:-
+CDATA 3,254,63,254,63,0,0 ' Code for char |  
+Syste_B__9o75_93:-
+CDATA 5,2,32,126,63,252,31,128,0,0,0 ' Code for char }  
+Syste_B__9o75_94:-
+CDATA 6,6,0,2,0,6,0,4,0,6,0,0,0 ' Code for char ~  
+Syste_B__9o75_95:-
+CDATA 3,252,7,252,7,0,0 ' Code for char   
+
+
+REMINDERS = ON
