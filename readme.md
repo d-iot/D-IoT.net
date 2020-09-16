@@ -133,6 +133,9 @@ Codes for Making a call:
 <h2> 5. USING THE NEXTION EDITOR</h2>
  
  
+ ![16](https://user-images.githubusercontent.com/61791991/93346708-ee6bf480-f83c-11ea-9367-cb563838d8eb.png)
+
+
  
 1. Main Menu including new, save, debug etc. 2. Toolbox has interface options in a very simple way you can add pictures, text, buttons, slider and there are more. 3. Picture Library; The picture used in Nextion the screen should be installed in advance. You can use the backgrounds and images uploaded here as you wish.   Font library; Fonts in specific sizes and styles are created and then configured for a particular screen. You can use the font file is added. 4. You can increase or decrease the number of pages. It allows you to easily change between pages. 5. Attributes, including text size, color, value, type  etc. 
  
@@ -140,33 +143,52 @@ Codes for Making a call:
  
  
 Open Nextion, you download the NEXTION MOBILE-PHONE-CERTIFICATE select the file and examine the project develops as you wish. 
+
+![17](https://user-images.githubusercontent.com/61791991/93346780-00e62e00-f83d-11ea-8140-538c40777431.png)
  
 ❖ Press to “New” file. The name write from your want in the created file. 
  
+ ![18](https://user-images.githubusercontent.com/61791991/93346817-0c395980-f83d-11ea-9155-4a4ad18255c2.png)
+ 
 ❖  As shown above the model  of your screen select. 
+
+![19](https://user-images.githubusercontent.com/61791991/93346845-15c2c180-f83d-11ea-9954-d84d105b2678.png)
 
  
 ❖ As shown above, adjust the direction of your screen. 
+
+
+![20](https://user-images.githubusercontent.com/61791991/93346912-283cfb00-f83d-11ea-8b8d-8d8f206e09af.png)
+
  
  
 ❖ As shown above,follow the steps. 
  
- 
+ ![21](https://user-images.githubusercontent.com/61791991/93346951-37bc4400-f83d-11ea-96ef-79c0f141ce1f.png)
  
  
 ❖ As shown below as an example; if you want to upload an image, click the “Picture” option in the “Toolbox” section. You can set the size etc in the “Attribute”, and section by pressing on the “p0” tab on the screen. In the “Attribute” section, select the browse feature on the pic tab and the picture select uploaded in the “Picture” library here. 
  
  
+ ![22](https://user-images.githubusercontent.com/61791991/93346993-44409c80-f83d-11ea-8c88-07d10926a8ac.png)
  
+ ![23](https://user-images.githubusercontent.com/61791991/93347079-57ec0300-f83d-11ea-92fb-014864cfd4b2.png)
  
  
 ❖ As shown below upload picture to your screen. 
+
+![24](https://user-images.githubusercontent.com/61791991/93347100-60443e00-f83d-11ea-969a-b5b2d82be876.png)
+
  
  
 ❖ Press the “Compile” and then press the “Debug”. The preview page is open. 
+
+![25](https://user-images.githubusercontent.com/61791991/93347132-689c7900-f83d-11ea-9f4f-c851053b33e4.png)
  
  
 ❖ Programs tab enter a variable. 
+
+
  
 ❖ According to the feature you use to write your code in each button  “Touch Event Press” and “Touch Release Events” tab. 
  
