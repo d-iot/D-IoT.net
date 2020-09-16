@@ -3,27 +3,33 @@
  
 1. D-IoT 2560 PRO DEVELOPMENT BOARD 
 
-![A2560PRODB]([url=https://hizliresim.com/SMyNAF][img]https://i.hizliresim.com/SMyNAF.png[/img][/url])
+![1](https://user-images.githubusercontent.com/61791991/93344175-08f09e80-f83a-11ea-9570-6cdc7eafe63a.png)
+
  
                          The D-IoT 2560 Pro Development Board is an Atmel ATmega2560 processor based development board. There are GSM/GNSS, Bluetooth, CanBus, SD Card, LDR, Temperature-Humidity, Relay, Optocoupler, Buzzer, Led, 3D Accelerometer Sensors on it. D-IoT 2560 Pro Development Board is cloud-based and development card integrated with IoT platform. (portal.d-iot.net) 
  
 2.NEXTION DISPLAY 
- 
+
+ ![2](https://user-images.githubusercontent.com/61791991/93344271-24f44000-f83a-11ea-961c-706e9995f14e.png)
  
         NEXTION is available in various LCD display sizes including 2.4”, 2.8”, 3.2”, 3.5”, 4.3”, 5.0”, 7.0”. NEXTION Editor software offers an easy way to create the perfect touch user interface, even for beginners. In this project, we will use Nextion Basic Model NX8048T070 (7.0”). 
  
 3. USB CABLE                                            
- 
+ ![3](https://user-images.githubusercontent.com/61791991/93344341-3a696a00-f83a-11ea-94e6-6a0f0a2c4ef7.png)
+
  
 4. USB to TTL 
- 
+ ![4](https://user-images.githubusercontent.com/61791991/93344359-43f2d200-f83a-11ea-9dd6-9b0a6ce1f74b.png)
+
  
 5. PHONE CHARGER (5V DC 0.5A) 1 PCS 
- 
+ ![5](https://user-images.githubusercontent.com/61791991/93344384-4ead6700-f83a-11ea-90f9-0abbfb9099a6.png)
+
  
  
 6. MICRO SD CARD WITH ADAPTER 1 PCS 
- 
+ ![6](https://user-images.githubusercontent.com/61791991/93344421-5a992900-f83a-11ea-8f74-3318582872ef.png)
+
  
 <h4> 2.CONNECTIONS </h4>
  
@@ -37,16 +43,22 @@
  
 1. Go to Nextion website and download the Nextion Editor 1.61.2 by clicking on “EXE Download”. 
  
- 
+ ![7](https://user-images.githubusercontent.com/61791991/93344439-6127a080-f83a-11ea-9285-939ed2061c67.png)
+
 2. Click on “Next” button to start installation. 
+![8](https://user-images.githubusercontent.com/61791991/93344525-743a7080-f83a-11ea-8320-1fc5e81d146c.png)
+
  
 3. Click the “Next” button.
- 
+ ![9](https://user-images.githubusercontent.com/61791991/93344557-7ac8e800-f83a-11ea-9edf-0133f372d6e5.png)
+
 4. Click the “Install” button. 
- 
+ ![10](https://user-images.githubusercontent.com/61791991/93344638-92a06c00-f83a-11ea-8762-f722c505ad53.png)
+
  
 5. You will see the shortcut on your PC desktop and the Nextion Editor starts automatically after installation is done. 
- 
+ ![11](https://user-images.githubusercontent.com/61791991/93344664-9a601080-f83a-11ea-81df-1ee9561a02e9.png)
+
            
  
  
