@@ -93,20 +93,20 @@ We have attached the ITEADLIB_Arduino_Nextion library. This library is configure
  
 Codes for Making a call: 
  
-if(numberdeger3==1){  
-  control=String(numbervalue); 
-  control2=String(numbervalue2); 
-  Prm1=""; 
-  Prm1="0"+control1+""+control2; 
-  Serial.println(Prm1); 
-   Retval = Prm1 + " Calling..."; 
-   Serial.println(""); 
-   Serial.println(Retval); 
-   Retval += GsmSendAT("ATD" + Prm1 + ";", RN, 2000, OKRN); 
-   GsmSendAT("AT+QAUDCH=2", RN, 2000, OKRN); 
-   delay(2000); 
-   delay(500); 
-} 
+    if(numberdeger3==1){  
+    control=String(numbervalue); 
+     control2=String(numbervalue2); 
+    Prm1=""; 
+    Prm1="0"+control1+""+control2; 
+    Serial.println(Prm1); 
+    Retval = Prm1 + " Calling..."; 
+     Serial.println(""); 
+     Serial.println(Retval); 
+     Retval += GsmSendAT("ATD" + Prm1 + ";", RN, 2000, OKRN); 
+     GsmSendAT("AT+QAUDCH=2", RN, 2000, OKRN); 
+     delay(2000); 
+     delay(500); 
+    } 
  
  
 Retval = GsmSendAT("ATA", RN, 2000, OKRN); 
