@@ -1,5 +1,5 @@
 
-<h4> 1. REQUIREMENT EQUIPMENT </h4>
+<h2> 1. REQUIREMENT EQUIPMENT </h2>
  
 1. D-IoT 2560 PRO DEVELOPMENT BOARD 
 
@@ -37,7 +37,7 @@
  ![6](https://user-images.githubusercontent.com/61791991/93344421-5a992900-f83a-11ea-8f74-3318582872ef.png)
 
  
-<h4> 2.CONNECTIONS </h4>
+<h2> 2.CONNECTIONS </h2>
  
 1. UPLOADING TFT FILE TO THE NEXTION HMI DISPLAY MODULE 
  
@@ -45,7 +45,7 @@
  
  
  
-<h4> 3.NEXTION EDITOR DOWNLOAD </h4>
+<h2> 3.NEXTION EDITOR DOWNLOAD </h2>
  
 1. Go to Nextion website and download the Nextion Editor 1.61.2 by clicking on “EXE Download”. 
 
@@ -78,7 +78,7 @@
            
  
  
-<h4> 4.CODE </h4>
+<h2> 4.CODE </h2>
  
 We have attached the ITEADLIB_Arduino_Nextion library. This library is configured for Arduino MEGA2560 by default. First of all, ITEADLIB_Arduino_Nextion library Download and add to libraries in your PC. For example;   C:\Users\MyPC\Documents\Arduino\libraries or C:\Program Files (x86)\Arduino\libraries.  Find ITEADLIB_Arduino_Nextion library in this link. Install the library in Arduino IDE program file on your computer. Reach the codes this link. 
  
@@ -110,7 +110,7 @@ Retval += GsmSendAT("ATH", RN, 2000, OKRN);
  
  
  
-<h4> 5. USING THE NEXTION EDITOR</h4>
+<h2> 5. USING THE NEXTION EDITOR</h2>
  
  
  
@@ -161,6 +161,6 @@ The D-IoT 2560PRO Development Board connects to your computer with the USB cable
  
  
  
-<h4> 7.NEXTION SCREEN WALLPAPER </h4>
+<h2> 7.NEXTION SCREEN WALLPAPER </h2>
  
 Reach the codes this link.
