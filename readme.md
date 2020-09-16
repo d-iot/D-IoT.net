@@ -19,7 +19,7 @@
 
  
 4. USB to TTL 
- ![4](https://user-images.githubusercontent.com/61791991/93344359-43f2d200-f83a-11ea-9dd6-9b0a6ce1f74b.png)
+
 
  
 5. PHONE CHARGER (5V DC 0.5A) 1 PCS 
