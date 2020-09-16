@@ -1,5 +1,5 @@
 
-<h4> 1. REQUIREMENT EQUIPMENT </h1>
+<h4> 1. REQUIREMENT EQUIPMENT </h4>
  
 1. D-IoT 2560 PRO DEVELOPMENT BOARD 
  
@@ -23,7 +23,7 @@
 6. MICRO SD CARD WITH ADAPTER 1 PCS 
  
  
-2.CONNECTIONS 
+<h4> 2.CONNECTIONS </h4>
  
 1. UPLOADING TFT FILE TO THE NEXTION HMI DISPLAY MODULE 
  
@@ -31,7 +31,7 @@
  
  
  
-3.NEXTION EDITOR DOWNLOAD 
+<h4> 3.NEXTION EDITOR DOWNLOAD </h4>
  
 1. Go to Nextion website and download the Nextion Editor 1.61.2 by clicking on “EXE Download”. 
  
@@ -48,7 +48,7 @@
            
  
  
-4.CODE 
+<h4> 4.CODE </h4>
  
 We have attached the ITEADLIB_Arduino_Nextion library. This library is configured for Arduino MEGA2560 by default. First of all, ITEADLIB_Arduino_Nextion library Download and add to libraries in your PC. For example;   C:\Users\MyPC\Documents\Arduino\libraries or C:\Program Files (x86)\Arduino\libraries.  Find ITEADLIB_Arduino_Nextion library in this link. Install the library in Arduino IDE program file on your computer. Reach the codes this link. 
  
@@ -80,7 +80,7 @@ Retval += GsmSendAT("ATH", RN, 2000, OKRN);
  
  
  
-5. USING THE NEXTION EDITOR 
+<h4> 5. USING THE NEXTION EDITOR</h4>
  
  
  
@@ -120,7 +120,9 @@ Open Nextion, you download the NEXTION MOBILE-PHONE-CERTIFICATE select the file 
  
 ❖ According to the feature you use to write your code in each button  “Touch Event Press” and “Touch Release Events” tab. 
  
-6.UPLOAD PROGRAM FOR D-IoT 2560 PRO DEVELOPMENT BOARD     The D-IoT 2560PRO Development Board connects to your computer with the USB cable as shown in the picture and download the program.
+<h4> 6.UPLOAD PROGRAM FOR D-IoT 2560 PRO DEVELOPMENT BOARD </h4>
+ 
+The D-IoT 2560PRO Development Board connects to your computer with the USB cable as shown in the picture and download the program.
  
 ❖ Primarily, “Arduino/Genuino Mega or Mega 2560” select the card in the tools section. Check as shown below.  
  
@@ -129,6 +131,6 @@ Open Nextion, you download the NEXTION MOBILE-PHONE-CERTIFICATE select the file 
  
  
  
-7.NEXTION SCREEN WALLPAPER 
+<h4> 7.NEXTION SCREEN WALLPAPER </h4>
  
 Reach the codes this link.
