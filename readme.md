@@ -164,29 +164,35 @@ Open Nextion, you download the NEXTION MOBILE-PHONE-CERTIFICATE select the file 
  
 ❖ As shown above,follow the steps. 
  
- ![21](https://user-images.githubusercontent.com/61791991/93346951-37bc4400-f83d-11ea-96ef-79c0f141ce1f.png)
  
  
 ❖ As shown below as an example; if you want to upload an image, click the “Picture” option in the “Toolbox” section. You can set the size etc in the “Attribute”, and section by pressing on the “p0” tab on the screen. In the “Attribute” section, select the browse feature on the pic tab and the picture select uploaded in the “Picture” library here. 
  
  
- ![22](https://user-images.githubusercontent.com/61791991/93346993-44409c80-f83d-11ea-8c88-07d10926a8ac.png)
- 
- ![23](https://user-images.githubusercontent.com/61791991/93347079-57ec0300-f83d-11ea-92fb-014864cfd4b2.png)
+  ![21](https://user-images.githubusercontent.com/61791991/93346951-37bc4400-f83d-11ea-96ef-79c0f141ce1f.png)
+  
+
  
  
 ❖ As shown below upload picture to your screen. 
 
-![24](https://user-images.githubusercontent.com/61791991/93347100-60443e00-f83d-11ea-969a-b5b2d82be876.png)
+ ![22](https://user-images.githubusercontent.com/61791991/93346993-44409c80-f83d-11ea-8c88-07d10926a8ac.png)
+ 
+ ![23](https://user-images.githubusercontent.com/61791991/93347079-57ec0300-f83d-11ea-92fb-014864cfd4b2.png)
 
  
  
 ❖ Press the “Compile” and then press the “Debug”. The preview page is open. 
 
-![25](https://user-images.githubusercontent.com/61791991/93347132-689c7900-f83d-11ea-9f4f-c851053b33e4.png)
+![24](https://user-images.githubusercontent.com/61791991/93347100-60443e00-f83d-11ea-969a-b5b2d82be876.png)
+
+
  
  
 ❖ Programs tab enter a variable. 
+
+
+![25](https://user-images.githubusercontent.com/61791991/93347132-689c7900-f83d-11ea-9f4f-c851053b33e4.png)
 
 
  
@@ -195,6 +201,8 @@ Open Nextion, you download the NEXTION MOBILE-PHONE-CERTIFICATE select the file 
 <h4> 6.UPLOAD PROGRAM FOR D-IoT 2560 PRO DEVELOPMENT BOARD </h4>
  
 The D-IoT 2560PRO Development Board connects to your computer with the USB cable as shown in the picture and download the program.
+
+![26](https://user-images.githubusercontent.com/61791991/93347668-02fcbc80-f83e-11ea-8198-3f1272d8effc.png)
  
 ❖ Primarily, “Arduino/Genuino Mega or Mega 2560” select the card in the tools section. Check as shown below.  
  
