@@ -81,9 +81,7 @@
  
 **5. You will see the shortcut on your PC desktop and the Nextion Editor starts automatically after installation is done.** 
 
- ![13-1](https://user-images.githubusercontent.com/61791991/93345956-19097d80-f83c-11ea-81ad-5370a7c932f0.png)
-       
- ![13](https://user-images.githubusercontent.com/61791991/93345821-f1b2b080-f83b-11ea-96d6-705ac106da97.png)
+ ![13-1](https://user-images.githubusercontent.com/61791991/93345956-19097d80-f83c-11ea-81ad-5370a7c932f0.png) ![13](https://user-images.githubusercontent.com/61791991/93345821-f1b2b080-f83b-11ea-96d6-705ac106da97.png)
 
  
 <h2> 4.CODE </h2>
