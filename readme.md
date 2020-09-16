@@ -109,9 +109,15 @@ Codes for Making a call:
     } 
  
  
-Retval = GsmSendAT("ATA", RN, 2000, OKRN); 
+![14](https://user-images.githubusercontent.com/61791991/93346307-82898c00-f83c-11ea-86fc-39cb908c9a28.png)
+
+
    Retval = GsmSendAT("ATA", RN, 2000, OKRN)  the command is the AT command to be used to answer the call. 
-Retval += GsmSendAT("ATH", RN, 2000, OKRN); 
+   
+   
+![15](https://user-images.githubusercontent.com/61791991/93346365-92a16b80-f83c-11ea-9187-2666898d6a2f.png)
+
+
    Retval += GsmSendAT("ATH", RN, 2000, OKRN)  the command is the AT command to be used to reject the call. 
  
  
