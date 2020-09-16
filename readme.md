@@ -6,10 +6,10 @@
 ![1](https://user-images.githubusercontent.com/61791991/93344175-08f09e80-f83a-11ea-9570-6cdc7eafe63a.png)
 
  
-                         The D-IoT 2560 Pro Development Board is an Atmel ATmega2560 processor based development board.
-                         There are GSM/GNSS, Bluetooth, CanBus, SD Card, LDR, Temperature-Humidity, Relay, Optocoupler,
-                         Buzzer, Led, 3D Accelerometer Sensors on it. D-IoT 2560 Pro Development Board is cloud-based and 
-                         development card integrated with IoT platform. (portal.d-iot.net) 
+    The D-IoT 2560 Pro Development Board is an Atmel ATmega2560 processor based development board.
+    There are GSM/GNSS, Bluetooth, CanBus, SD Card, LDR, Temperature-Humidity, Relay, Optocoupler,
+    Buzzer, Led, 3D Accelerometer Sensors on it. D-IoT 2560 Pro Development Board is cloud-based and 
+    development card integrated with IoT platform. (portal.d-iot.net) 
                          
  
 **2.NEXTION DISPLAY** 
@@ -17,9 +17,9 @@
  ![2](https://user-images.githubusercontent.com/61791991/93344271-24f44000-f83a-11ea-961c-706e9995f14e.png)
  
  
-        NEXTION is available in various LCD display sizes including 2.4”, 2.8”, 3.2”, 3.5”, 4.3”, 5.0”, 7.0”.
-        NEXTION Editor software offers an easy way to create the perfect touch user interface, even for beginners.
-        In this project, we will use Nextion Basic Model NX8048T070 (7.0”). 
+     NEXTION is available in various LCD display sizes including 2.4”, 2.8”, 3.2”, 3.5”, 4.3”, 5.0”, 7.0”.
+     NEXTION Editor software offers an easy way to create the perfect touch user interface, even for beginners.
+     In this project, we will use Nextion Basic Model NX8048T070 (7.0”). 
         
  
 **3. USB CABLE**                                            
