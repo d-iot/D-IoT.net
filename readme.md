@@ -2,6 +2,8 @@
 <h4> 1. REQUIREMENT EQUIPMENT </h4>
  
 1. D-IoT 2560 PRO DEVELOPMENT BOARD 
+
+![A2560PRODB]([url=https://hizliresim.com/SMyNAF][img]https://i.hizliresim.com/SMyNAF.png[/img][/url])
  
                          The D-IoT 2560 Pro Development Board is an Atmel ATmega2560 processor based development board. There are GSM/GNSS, Bluetooth, CanBus, SD Card, LDR, Temperature-Humidity, Relay, Optocoupler, Buzzer, Led, 3D Accelerometer Sensors on it. D-IoT 2560 Pro Development Board is cloud-based and development card integrated with IoT platform. (portal.d-iot.net) 
  
