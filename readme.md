@@ -15,19 +15,25 @@
         NEXTION is available in various LCD display sizes including 2.4”, 2.8”, 3.2”, 3.5”, 4.3”, 5.0”, 7.0”. NEXTION Editor software offers an easy way to create the perfect touch user interface, even for beginners. In this project, we will use Nextion Basic Model NX8048T070 (7.0”). 
  
 3. USB CABLE                                            
- ![3](https://user-images.githubusercontent.com/61791991/93344341-3a696a00-f83a-11ea-94e6-6a0f0a2c4ef7.png)
+
+![3](https://user-images.githubusercontent.com/61791991/93344341-3a696a00-f83a-11ea-94e6-6a0f0a2c4ef7.png)
 
  
 4. USB to TTL 
 
-
+ ![4](https://user-images.githubusercontent.com/61791991/93344359-43f2d200-f83a-11ea-9dd6-9b0a6ce1f74b.png)
+ 
  
 5. PHONE CHARGER (5V DC 0.5A) 1 PCS 
- ![5](https://user-images.githubusercontent.com/61791991/93344384-4ead6700-f83a-11ea-90f9-0abbfb9099a6.png)
+
+
+![5](https://user-images.githubusercontent.com/61791991/93344384-4ead6700-f83a-11ea-90f9-0abbfb9099a6.png)
 
  
  
 6. MICRO SD CARD WITH ADAPTER 1 PCS 
+
+
  ![6](https://user-images.githubusercontent.com/61791991/93344421-5a992900-f83a-11ea-8f74-3318582872ef.png)
 
  
