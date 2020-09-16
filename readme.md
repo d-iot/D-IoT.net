@@ -206,11 +206,15 @@ The D-IoT 2560PRO Development Board connects to your computer with the USB cable
  
 ❖ Primarily, “Arduino/Genuino Mega or Mega 2560” select the card in the tools section. Check as shown below.  
  
+ ![27](https://user-images.githubusercontent.com/61791991/93348230-9f26c380-f83e-11ea-8d17-5081e38fbfac.png)
+
  
 ❖ As shown below install. 
  
- 
+ ![28](https://user-images.githubusercontent.com/61791991/93348253-a64dd180-f83e-11ea-9eaf-a1e0dacfb56b.png)
  
 <h2> 7.NEXTION SCREEN WALLPAPER </h2>
+
+![29](https://user-images.githubusercontent.com/61791991/93348289-afd73980-f83e-11ea-97eb-d17ce8ea53e4.png)
  
 Reach the codes this link.
